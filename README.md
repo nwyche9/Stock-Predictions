@@ -10,4 +10,5 @@ Data_Handler.py:
     A simple multiple linear regression model that takes some data from an api to calculate whether or not a stock will increase or
     decrease.
     
-    
+ FreezeGraph.py:
+     A script to freeze a graph at the current moment to be used by other folders later.
